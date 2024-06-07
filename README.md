@@ -16,7 +16,7 @@ This is a simple project of register, login with token based authentication.
 
 ### Register API
 
-**API:** http://localhost:8080/register
+**API:** http://localhost:8080/register </br>
 **Method:** POST
  
 **Request Body:**
@@ -39,7 +39,7 @@ This is a simple project of register, login with token based authentication.
 
 ### Login API
 
-**API:** http://localhost:8080/login
+**API:** http://localhost:8080/login </br>
 **Method:** POST
 
 **Request Body:**
@@ -59,7 +59,7 @@ This is a simple project of register, login with token based authentication.
 
 ### Demo API
 
-**API:** http://localhost:8080/demo
+**API:** http://localhost:8080/demo </br>
 **Method:** GET
 
 Request Body:  Empty
@@ -72,7 +72,7 @@ Param: Empty
 
 ### Admin Only API:
 
-**API:** http://localhost:8080/admin_only
+**API:** http://localhost:8080/admin_only </br>
 **Method:** GET
 
 Request Body:  Empty
