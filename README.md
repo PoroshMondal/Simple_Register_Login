@@ -1,4 +1,4 @@
-#Simple Register Login Mini Project
+# Simple Register Login Mini Project
 ---------------------------------------
 This is a simple project of register, login with token based authentication.
 
@@ -14,7 +14,7 @@ This is a simple project of register, login with token based authentication.
    3. demo 
    4. admin_only 
 
-###Register API
+### Register API
 ----------------
 
 **API:** http://localhost:8080/register
@@ -38,7 +38,7 @@ This is a simple project of register, login with token based authentication.
    }
 ```
 
-###Login API
+### Login API
 --------------------
 
 **API:** http://localhost:8080/login
@@ -59,7 +59,7 @@ This is a simple project of register, login with token based authentication.
      }
 ```
 
-###Demo API
+### Demo API
 ------------------
 
 **API:** http://localhost:8080/demo
@@ -73,7 +73,7 @@ Param: Empty
   "Hello from secured url" // Static string data will be returned as response
 
 
-###Admin Only API:
+### Admin Only API:
 --------------------
 
 **API:** http://localhost:8080/admin_only
