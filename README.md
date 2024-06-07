@@ -1,5 +1,5 @@
 # Simple Register Login Mini Project
----------------------------------------
+
 This is a simple project of register, login with token based authentication.
 
 ## Spring Framework, JWT Authentication, JPA, Lombok is used for this project.
@@ -15,7 +15,6 @@ This is a simple project of register, login with token based authentication.
    4. admin_only 
 
 ### Register API
-----------------
 
 **API:** http://localhost:8080/register
 **Method:** POST
@@ -39,7 +38,6 @@ This is a simple project of register, login with token based authentication.
 ```
 
 ### Login API
---------------------
 
 **API:** http://localhost:8080/login
 **Method:** POST
@@ -60,7 +58,6 @@ This is a simple project of register, login with token based authentication.
 ```
 
 ### Demo API
-------------------
 
 **API:** http://localhost:8080/demo
 **Method:** GET
@@ -74,7 +71,6 @@ Param: Empty
 
 
 ### Admin Only API:
---------------------
 
 **API:** http://localhost:8080/admin_only
 **Method:** GET
